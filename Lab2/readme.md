@@ -19,3 +19,13 @@ a function not executed immediately that it must be executed after a while it ha
 modern  JS is divided into 2 categories 
 1. common Js (cjs) -> support OOPS -> require
 2. Module JS (.mjs) -> follow modular approach -> import
+
+
+# CRUD project
+assume we are making a cart related project
+
+1. user can add any product (id,name, price, qty) into cart
+2. user can see all the items of cart
+3. user can remove item from cart
+4. user can also update quantity of product
+5. all the items should be stored after termination of project
